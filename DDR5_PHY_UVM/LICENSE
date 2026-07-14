@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 Dinh Vu Bao Tung, Ain Shams University
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Attribution
+
+This DDR5 PHY UVM Verification project is based on and derived from the
+Si-Vision DDR5 PHY Verification Project:
+
+- **Original Project**: https://github.com/Shehab-Naga/ddr5_phy
+- **Original Authors**: Si-Vision Team & Ain Shams University
+- **License**: Original project license applies to derived components
+
+The verification methodology, test approach, and RTL design patterns follow
+best practices from the DDR5 specification (JEDEC JESD79-5) and Accellera UVM
+standard documentation.
+
+For questions or attribution clarification, please refer to the main README.md file.

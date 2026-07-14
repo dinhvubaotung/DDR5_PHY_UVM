@@ -1,0 +1,50 @@
+### QuestaSim / ModelSim build artifacts ###
+work/
+*_work/
+transcript
+transcript.*
+vsim.wlf
+*.wlf
+*.vstf
+modelsim.ini
+.mti_dl_*
+*.dbg
+
+### Compile / regression logs (tự sinh lại được khi chạy make sim) ###
+sim/*.log
+*.log
+!RESULTS.md
+
+### Coverage database ###
+*.ucdb
+covhtmlreport/
+cover_report/
+
+### UVM / simulator temp files ###
+csrc/
+*.vpd
+*.shm/
+*.daidir/
+DVEfiles/
+simv*
+ucli.key
+*.key
+
+### Makefile build output ###
+sim/*.o
+*.o
+
+### OS junk files ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### Editor / IDE ###
+.vscode/
+.idea/
+*.swp
+*~
+
+### Word/temp lock files khi mở docx báo cáo ###
+~$*.docx
+~$*.doc
